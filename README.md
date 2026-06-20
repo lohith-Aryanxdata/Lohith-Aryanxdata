@@ -89,8 +89,6 @@
 
 ### 👻 Pac-Man Contribution Graph
 
-> ⚠️ This needs a one-time GitHub Action setup in your `lohith-Aryanxdata/lohith-Aryanxdata` repo before it shows up — see **PACMAN_SETUP.md** for the exact steps.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/pacman-contribution-graph.svg">
