@@ -129,14 +129,12 @@
 
 ---
 
-### 🐍 Snake eating my Contributions
+### 👻 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/github-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lohith-Aryanxdata/lohith-Aryanxdata/output/pacman-contribution-graph.svg">
 </picture>
-
----
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
