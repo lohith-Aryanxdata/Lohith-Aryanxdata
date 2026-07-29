@@ -24,7 +24,7 @@
 ### 🔍 About Me
 
 - 🧮 Data Analyst experienced in extracting, cleaning, and modeling data to support business decisions
-- 🛢️ Strong in SQL — **MySQL** and **PostgreSQL** — for querying and managing relational data
+- 🛢️ Strong in SQL — **MySQL** , **PostgreSQL** and **SSMS** — for querying and managing relational data
 - 🐍 Build analysis workflows and visualizations in **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - 📊 Design interactive dashboards in **Power BI** and build data pipelines using **Azure Data Factory (ADF)** on **Azure**
 - 🗂️ Comfortable on the product side too — using **Notion** and **Jira** for planning, tracking, and collaboration
